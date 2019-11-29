@@ -3,3 +3,5 @@ saved/
 runs/
 **/.idea/
 **/__pycache__/
+
+venv
